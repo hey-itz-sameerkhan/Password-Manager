@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td align="left" width="260">
-        <img src="https://github.com/hey-itz-sameerkhan/Technopage-tech-blog/blob/main/Images/hero%20section%20images/Project-Logo.webp" alt="Project Preview" width="260">
+        <img src="https://github.com/hey-itz-sameerkhan/Technopage-tech-blog/blob/main/Images/Service%20section%20images/WhatsApp%20Image%202026-03-14%20at%206.30.23%20PM.jpeg" alt="Project Preview" width="260">
       </td>
       <td align="left">
          <h1>🔐 SecurePass — Beautiful Password Manager</h1>
